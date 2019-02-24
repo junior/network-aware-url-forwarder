@@ -1,0 +1,19 @@
+{
+  "name": "network-aware-url-forwarder",
+  "version": "0.1.0",
+  "description": "Lightweight image that forward requests to another addresses, based on reachability of servers in a specific network.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://junior@github.com/junior/network-aware-url-forwarder.git"
+  },
+  "author": "Adao Junior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/junior/network-aware-url-forwarder/issues"
+  },
+  "homepage": "https://github.com/junior/network-aware-url-forwarder#readme"
+}
